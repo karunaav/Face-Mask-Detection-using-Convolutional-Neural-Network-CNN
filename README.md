@@ -20,3 +20,4 @@ Dropout for regularization
 Results
 The model achieves high accuracy on detecting faces with and without masks.
 link to colab file-https://colab.research.google.com/drive/124MGUJfkLWKQ06hKsc3kjKsmxepqSSE6#scrollTo=754OUPxaPCMv
+Kaggle dataset link-https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
